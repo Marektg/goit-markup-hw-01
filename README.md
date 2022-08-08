@@ -7,6 +7,7 @@ This sit is created only in HTML.
 => [Strona projektu](https://marektg.github.io/goit-markup-hw-01//)
 
 Technologies used:
+
 => HTML
 
 
