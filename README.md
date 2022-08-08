@@ -4,7 +4,7 @@ Project made as part of the course [FULLSTACK PROGRAMISTA OD ZERA](https://goit.
 
 This sit is created only in HTML.
 
-=> [Strona projektu](https://marektg.github.io/goit-markup-hw-01//)
+=> [Project page](https://marektg.github.io/goit-markup-hw-01//)
 
 Technologies used:
 
